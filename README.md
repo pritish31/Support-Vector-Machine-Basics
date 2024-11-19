@@ -1,1 +1,2 @@
-# SVM1
+# SVM
+Basic python code for SVM implementation.
